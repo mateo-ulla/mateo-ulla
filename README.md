@@ -41,15 +41,22 @@ I build projects at the intersection of code, data, and decision-making. My goal
 
 ## Who Am I?
 
-```python
-class MateoUlla:
-    role = "Programming student"
-    interests = ["Software Development", "Data Analysis", "Finance"]
-    mindset = "Learn fast, build consistently, improve with feedback"
+- Role: Programming student
+- Interests: Software Development, Data Analysis, Finance
+- Mindset: Learn fast, build consistently, improve with feedback
 
-    def current_focus(self):
-        return [
-            "Build useful projects",
-            "Strengthen technical fundamentals",
-            "Grow with direction and clarity"
-        ]
+## Projects
+
+- Portfolio: [portfolio-mateo-ulla.onrender.com](https://portfolio-mateo-ulla.onrender.com/)
+- More projects coming soon
+
+## What I'm Looking For
+
+- Learn from real-world development and clean code practices
+- Collaborate on projects involving software, data, or finance
+- Keep growing through consistent practice and better problem solving
+
+## Contact
+
+- [GitHub](https://github.com/mateo-ulla)
+- [Portfolio](https://portfolio-mateo-ulla.onrender.com/)
