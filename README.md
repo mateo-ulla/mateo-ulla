@@ -46,9 +46,11 @@ I build projects at the intersection of code, data, and decision-making. My goal
 
 ## Projects
 
-- [Portfolio](https://portfolio-mateo-ulla.onrender.com/)
+- **Portfolio Website**  
+  Personal portfolio where I showcase my projects, skills, and technical interests in software development, data analysis, and finance.  
+  https://portfolio-mateo-ulla.onrender.com/
 
-- **Trading Algorithm Project**  
+- **Algo Trading Project**  
   Trading strategy research and experimentation.  
   https://github.com/mateoullaa/TRADING-ALGORITMICO
 
